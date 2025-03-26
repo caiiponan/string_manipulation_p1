@@ -5,3 +5,4 @@ name = input("Enter your full name: ")
 new_name = name.lower()
 
 # Print the new input.
+print(new_name)
