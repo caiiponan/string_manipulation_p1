@@ -8,5 +8,6 @@ if not user_input.isdigit():
     # If it is, format the number with zeroes infront of it.
 else:
     formatted_number = "0" * (6 - len(user_input)) + user_input
-    
+
 # Print the formatted number.
+print(formatted_number)
