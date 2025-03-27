@@ -5,3 +5,4 @@ user_input = input("Enter a sentence:  ")
 word_count = len(user_input.split())
 
 # Print the number of words in the input.
+print(word_count)
