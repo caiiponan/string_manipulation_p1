@@ -5,3 +5,4 @@ user_input = input("Enter a sentence: ")
 char_count = len(user_input)
 
 # Print the number of characters in the input.
+print(char_count)
